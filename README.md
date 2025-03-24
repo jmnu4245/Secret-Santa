@@ -9,9 +9,6 @@ This Python script facilitates the creation of files for organizing a Secret San
   - `random`
   - `argparse`
 
-## Installation
-No installation steps are necessary beyond ensuring Python 3.x is installed on your system.
-
 ## Usage
 1. **Help Menu**: Display the help menu with different input options:
    ```sh
@@ -41,14 +38,3 @@ Upon successful execution:
 
 - Participants will be assigned gift recipients.
 - Individual text files for each participant will be saved in the folder, indicating group membership and assigned recipient.
-
-## Known Issues
-None at the moment.
-
-## Contributing
-Contributions are welcome! Fork the repository and submit pull requests. Report any issues or suggestions in the Issues section.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
